@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/ed10522256f846aa9fb28e95f9e48a4a/artifacts
+end_time: 1701260109093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed10522256f846aa9fb28e95f9e48a4a
+run_name: resilient-worm-85
+run_uuid: ed10522256f846aa9fb28e95f9e48a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701260105935
+status: 3
+tags: []
+user_id: ARUN KUMAR V

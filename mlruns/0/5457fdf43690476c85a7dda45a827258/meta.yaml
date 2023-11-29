@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/5457fdf43690476c85a7dda45a827258/artifacts
+end_time: 1701259948720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5457fdf43690476c85a7dda45a827258
+run_name: unique-moth-879
+run_uuid: 5457fdf43690476c85a7dda45a827258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701259945589
+status: 3
+tags: []
+user_id: ARUN KUMAR V

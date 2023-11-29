@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/19bbf0688d4a40c398e9afeee2adc6cf/artifacts
+end_time: 1701260027910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19bbf0688d4a40c398e9afeee2adc6cf
+run_name: charming-smelt-603
+run_uuid: 19bbf0688d4a40c398e9afeee2adc6cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701260024392
+status: 3
+tags: []
+user_id: ARUN KUMAR V

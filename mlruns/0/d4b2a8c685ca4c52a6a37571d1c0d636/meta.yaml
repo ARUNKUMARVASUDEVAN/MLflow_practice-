@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/d4b2a8c685ca4c52a6a37571d1c0d636/artifacts
+end_time: 1701259993822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b2a8c685ca4c52a6a37571d1c0d636
+run_name: lyrical-roo-102
+run_uuid: d4b2a8c685ca4c52a6a37571d1c0d636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701259990457
+status: 3
+tags: []
+user_id: ARUN KUMAR V

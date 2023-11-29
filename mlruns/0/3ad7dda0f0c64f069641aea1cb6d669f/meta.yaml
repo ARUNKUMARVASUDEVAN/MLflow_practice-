@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/3ad7dda0f0c64f069641aea1cb6d669f/artifacts
+end_time: 1701259941256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ad7dda0f0c64f069641aea1cb6d669f
+run_name: learned-gull-326
+run_uuid: 3ad7dda0f0c64f069641aea1cb6d669f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701259937844
+status: 3
+tags: []
+user_id: ARUN KUMAR V

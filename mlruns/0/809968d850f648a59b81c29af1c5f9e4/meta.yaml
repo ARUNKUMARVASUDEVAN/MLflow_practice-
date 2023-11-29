@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/809968d850f648a59b81c29af1c5f9e4/artifacts
+end_time: 1701260084262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 809968d850f648a59b81c29af1c5f9e4
+run_name: bold-goose-376
+run_uuid: 809968d850f648a59b81c29af1c5f9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701260080659
+status: 3
+tags: []
+user_id: ARUN KUMAR V
