@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/79081acf7cd14367ade3c852c2970c37/artifacts
+end_time: 1701234054475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79081acf7cd14367ade3c852c2970c37
+run_name: salty-chimp-121
+run_uuid: 79081acf7cd14367ade3c852c2970c37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701234049066
+status: 3
+tags: []
+user_id: ARUN KUMAR V

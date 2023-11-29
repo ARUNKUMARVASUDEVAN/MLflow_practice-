@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/35504ceef1a64e1296a92bb56b515368/artifacts
+end_time: 1701233996754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35504ceef1a64e1296a92bb56b515368
+run_name: loud-yak-7
+run_uuid: 35504ceef1a64e1296a92bb56b515368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701233991407
+status: 3
+tags: []
+user_id: ARUN KUMAR V
